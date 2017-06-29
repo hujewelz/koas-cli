@@ -1,6 +1,6 @@
 {
   "name": "koas-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple CLI for creating a koa project ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
