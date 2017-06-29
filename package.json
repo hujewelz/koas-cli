@@ -1,0 +1,32 @@
+{
+  "name": "koas-cli",
+  "version": "0.0.1",
+  "description": "A simple CLI for creating a koa project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "koas": "bin/koas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hujewelz.com/koas-cli.git"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "Hu Jewelz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hujewelz.com/koas-cli/issues"
+  },
+  "homepage": "https://github.com/hujewelz.com/koas-cli#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "download-git-repo": "^1.0.1",
+    "inquirer": "^3.1.1",
+    "ora": "^1.3.0"
+  }
+}
